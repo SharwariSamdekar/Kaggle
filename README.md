@@ -1,3 +1,3 @@
 # Kaggle
 
-PRactice codes from kaggle challenges
+Practice codes from kaggle challenges
